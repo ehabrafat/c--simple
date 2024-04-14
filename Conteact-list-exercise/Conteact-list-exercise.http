@@ -1,0 +1,6 @@
+@Conteact_list_exercise_HostAddress = http://localhost:5206
+
+GET {{Conteact_list_exercise_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
